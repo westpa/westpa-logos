@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="750pt"
+   height="500pt"
+   viewBox="0 0 264.58334 176.38889"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="westpa2-new-final.svg"
+   inkscape:export-filename="C:\Users\RainbowIslands\Desktop\westpa2-new_white.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="pt"
+     height="500pt"
+     inkscape:zoom="1.0280428"
+     inkscape:cx="460.09758"
+     inkscape:cy="349.20725"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient91097"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#7d7e80;stop-opacity:1;"
+         offset="0"
+         id="stop91095" />
+    </linearGradient>
+    <rect
+       x="-1.026438"
+       y="340.59082"
+       width="1020.1429"
+       height="343.66493"
+       id="rect9234" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient91097"
+       id="linearGradient91099"
+       x1="57.077715"
+       y1="87.417224"
+       x2="259.27459"
+       y2="87.417224"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient91097"
+       id="linearGradient153146"
+       gradientUnits="userSpaceOnUse"
+       x1="57.077715"
+       y1="87.417224"
+       x2="259.27459"
+       y2="87.417224" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g40387"
+       transform="matrix(1,0,-0.00347473,1,-0.19684099,4.0611642)"
+       inkscape:export-filename="C:\Users\RainbowIslands\Desktop\westpa2-new_white.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g40380"
+         style="fill:none;fill-opacity:1;stroke:url(#linearGradient91099);stroke-width:2.6;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;fill-opacity:1;stroke:url(#linearGradient153146);stroke-width:2.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 83.868602,28.805704 57.810215,42.369014 V 146.51034 H 212.90124 l 13.9854,-8.07447 9.58025,2.56702 6.56739,-6.56739 13.97264,-8.06711 -9.40527,-9.40526 -2.58405,-2.58405 -1.86876,-6.9743 -2.30839,-0.61853 -2.22746,-8.312996 6.62204,-6.62203 -3.29441,-3.2944 10.8827,-10.88269 1.00131,-3.73694 4.44935,-2.56883 -3.13639,-5.43238 h -5.22804 l -4.2359,-4.2359 -1.9153,-7.148 1.05477,-3.93645 -10.44435,-6.03004 0.6009,-2.24263 H 83.718115 Z"
+           id="path215-3"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+      </g>
+      <g
+         aria-label="WESTPA"
+         transform="matrix(0.26458333,0,0,0.26458333,2.3225346,-3.4277863)"
+         id="text9232"
+         style="font-size:200px;line-height:1.25;letter-spacing:10px;word-spacing:0px;white-space:pre;shape-inside:url(#rect9234);display:inline;fill:#00adee">
+        <path
+           d="m 149.97266,381.62318 52.6,-1 v 14.4 l -18.2,5.2 6.6,-7.4 -36.2,128.8 h -27 l -30.000004,-106.4 h 5.200004 l -31.200004,106.4 h -26.8 l -33.2,-126.4 2.8,4.6 -14.79999975,-3.8 v -14.4 l 55.19999975,-1 v 14.4 l -17.4,5.6 3.4,-5.4 22.6,100.6 -5.8,-0.2 31.4,-114.2 26.400004,-0.8 30.4,114.6 -5.8,0.2 25.6,-100.2 2.4,5.2 -18.2,-4.4 z"
+           style="font-weight:bold;font-family:Bitter;-inkscape-font-specification:'Bitter Bold'"
+           id="path152597" />
+        <path
+           d="m 304.97238,483.82318 h 17 l -0.4,37.6 h -104.2 v -14.4 l 18.6,-5.4 -3.8,5.8 v -112 l 3.6,5.6 -18.4,-5 v -14.4 l 42.8,-1 h 59.2 v 36 h -17 l -4,-19.4 5.4,4 h -47.4 l 4.4,-4.4 v 47.4 l -4.4,-4.4 4.4,4.4 v 10.4 l -4.4,5 4.4,-5 v 50.6 l -4.4,-4.4 h 49.8 l -5.4,4.4 z"
+           style="font-weight:bold;font-family:Bitter;-inkscape-font-specification:'Bitter Bold'"
+           id="path152599"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+        <path
+           d="m 380.97223,416.02318 q 0,5.8 4,9.6 4,3.8 10.4,6.6 6.4,2.6 14.2,5.2 7.8,2.4 15.4,5.6 7.6,3 14,7.8 6.6,4.6 10.4,11.8 4,7.2 4,18 0,14.8 -7.8,24.4 -7.6,9.6 -20.4,14.4 -12.8,4.6 -28.4,4.6 -10.6,0 -21.8,-2.2 -11,-2 -21.8,-6.2 l 1,-38 h 16.6 l 4.2,24.2 -2.6,-4.8 q 6,2.8 12.6,4.4 6.8,1.4 13.2,1.4 7.4,0 13.6,-2 6.2,-2 9.8,-6.2 3.6,-4.2 3.6,-10.4 0,-6.2 -3.8,-10.2 -3.8,-4 -10.4,-6.6 -6.4,-2.8 -14,-5 -7.6,-2.4 -15.4,-5.4 -7.6,-3 -14.2,-7.6 -6.4,-4.6 -10.2,-11.6 -3.8,-7.2 -3.8,-18 0,-14.2 6.8,-23.2 6.8,-9.2 18.4,-13.8 11.6,-4.6 26.2,-4.6 10.4,0 21.6,2.2 11.2,2.2 22.4,6.6 l -2.2,35 h -17 l -4.2,-21.8 3.2,3.2 q -5,-2 -10.8,-3 -5.6,-1.2 -11.4,-1.2 -6.8,0 -12.6,1.8 -5.8,1.6 -9.4,5.4 -3.4,3.6 -3.4,9.6 z"
+           style="font-weight:bold;font-family:Bitter;-inkscape-font-specification:'Bitter Bold'"
+           id="path152601" />
+        <path
+           d="m 496.37184,521.42318 v -14.4 l 22.2,-5.6 -5.2,7.2 v -111.8 l 5.8,4.4 h -32.6 l 6.4,-5.6 -5.4,25.4 h -17 v -40.4 h 114.4 v 40.4 h -17 l -5,-24.2 6,4.4 h -32.6 l 5.8,-4.4 v 111.8 l -5,-7.2 22,5.6 v 14.4 z"
+           style="font-weight:bold;font-family:Bitter;-inkscape-font-specification:'Bitter Bold'"
+           id="path152603" />
+        <path
+           d="m 659.57174,471.62318 h -15.8 l 5.8,-4.4 v 40.2 l -4,-5.6 23,5.2 v 14.4 h -62.4 v -14.4 l 19.2,-5.6 -4.4,6 v -112.4 l 5,6.2 -19.8,-5.2 v -14.4 l 44,-1 h 18.2 q 16.6,0 27.2,5.8 10.6,5.6 15.6,15.4 5.2,9.8 5.2,22.2 0,13.4 -6.2,24.4 -6,10.8 -18.6,17 -12.4,6.2 -32,6.2 z m 4.2,-70.6 h -18.6 l 4.4,-4.4 v 58.8 l -5.8,-4.4 h 16 q 13.4,0 20.4,-7.2 7,-7.2 7,-19.2 0,-11 -6,-17.2 -5.8,-6.4 -17.4,-6.4 z"
+           style="fill:#c081d4"
+           id="path152605" />
+        <path
+           d="m 852.17144,508.02318 -7.4,-6.6 17.2,5.6 v 14.4 h -57.4 v -14.4 l 17.4,-5 -2.8,4 -8,-26 4.4,3.6 h -52.8 l 3.4,-3.4 -8.6,25.4 -0.8,-3 16,4.4 v 14.4 h -52.2 v -14.4 l 16.6,-5.2 -6.4,5.6 47.2,-126.4 29.4,-0.8 z m -82.2,-40.4 -2,-3.8 h 43 l -2.8,4.4 -20.8,-72.2 h 6.6 z"
+           style="fill:#c081d4"
+           id="path152607" />
+      </g>
+    </g>
+    <path
+       style="display:inline;fill:#ffd700;fill-opacity:1;stroke:none;stroke-width:0.237204px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.432698,128.36668 2.873611,-5.30249 5.435275,-2.99794 -5.394046,-2.99796 -2.877127,-5.42485 -3.037334,5.46565 -5.414741,2.95716 5.455301,2.97754 z"
+       id="path120382"
+       inkscape:export-filename="C:\Users\RainbowIslands\Desktop\westpa2-new_white.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>
